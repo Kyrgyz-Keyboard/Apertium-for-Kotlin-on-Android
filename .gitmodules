@@ -1,0 +1,9 @@
+[submodule "lttoolbox-java"]
+	path = lttoolbox-java
+	url = git@github.com:apertium/lttoolbox-java.git
+[submodule "apertium-kir"]
+	path = apertium-kir
+	url = git@github.com:apertium/apertium-kir.git
+[submodule "lttoolbox"]
+	path = lttoolbox
+	url = git@github.com:apertium/lttoolbox.git
